@@ -1,0 +1,41 @@
+body {
+	font-family: 'Barrio', cursive;
+	text-align: center;
+	background-position: center;
+}
+
+span{
+	font-size: 18px;
+	color: rgb(255, 0, 140);
+} 
+
+canvas{
+	background: rgb(245, 165, 178);
+	border-radius: 20px;
+}
+
+.heading{
+	background-color: rgb(239, 124, 162);
+	width: 100%;
+	margin-top: 0px;
+	font-size: 20;
+	box-shadow: 10px 10px 5px rgb(203, 95, 193);
+}
+
+.copy_right_footer {
+    position: fixed;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 20%;
+    margin-bottom: 10px;
+    margin-left: 350px;
+	background-color: rgb(219, 79, 126);
+	box-shadow: 10px 10px 5px rgb(203, 95, 193);
+    line-height:  2;
+    text-align: center;
+ }
+
+ #boton {
+	background-color: rgb(239, 124, 162);
+ }
